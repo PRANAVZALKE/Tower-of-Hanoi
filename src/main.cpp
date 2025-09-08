@@ -5,8 +5,8 @@
  * real-time ASCII visualization. It uses recursive algorithm to
  * solve the puzzle and displays each move step by step.
  * 
- * Author: [Your Name]
- * Date: [Current Date]
+ * Author: [Pranav A Zalke]
+ * Date: [09/08/2025]
  * Language: C++
  */
 
