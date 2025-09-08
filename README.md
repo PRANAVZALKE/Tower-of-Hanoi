@@ -127,13 +127,9 @@ This project demonstrates:
 - **Slow animation**: Reduce the delay in `sleep_for()` function
 
 ## Author
-Pranav Arvind Zalke
-
+Pranav Arvind Zalke  
 CSE AI/DS Student  
-
-PIET
-
-Parul University
+PIET, Parul University
 
 ## License
 This project is open source and available under the MIT License.
