@@ -128,8 +128,11 @@ This project demonstrates:
 
 ## Author
 Pranav Arvind Zalke
+
 CSE AI/DS Student  
+
 PIET
+
 Parul University
 
 ## License
