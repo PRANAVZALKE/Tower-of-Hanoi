@@ -23,7 +23,7 @@ A C++ implementation of the classic Tower of Hanoi puzzle with real-time ASCII v
 ### Method 1: Using g++ (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tower-of-hanoi-visualizer.git
+git clone https://github.com/PRANAVZALKE/Tower-of-Hanoi-Visualizer.git
 
 # Navigate to source directory
 cd tower-of-hanoi-visualizer/src
