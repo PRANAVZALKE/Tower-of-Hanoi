@@ -85,13 +85,13 @@ The program uses the classic recursive algorithm for Tower of Hanoi:
 **Space Complexity:** O(n) for recursion stack
 
 ## Screenshots
-![Initial State](../screenshots/initial_state.png)
+![Initial State](screenshots/initial_state.png)
 *Starting position with all disks on peg A*
 
-![Solving Process](../screenshots/solving_process.png)
+![Solving Process](screenshots/solving_process.png)
 *Algorithm in action showing intermediate steps*
 
-![Final State](../screenshots/final_state.png)
+![Final State](screenshots/final_state.png)
 *Completed puzzle with all disks moved to peg C*
 
 ## Project Structure
